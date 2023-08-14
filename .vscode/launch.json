@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-RosaApplication<rosa>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "net.marcosabreu.rosa.RosaApplication",
+            "projectName": "rosa",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
